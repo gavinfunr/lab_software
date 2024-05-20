@@ -12,8 +12,9 @@
 #Python script to run lab instruments and form GUI
 #Version 1.0
 #for questions contact Gavin Fisher at GavinFisherProfessional@gmail.com
-#                  or  Josh Rudfelt at __________@____.com
-#                  or  Sam Hutton   at __________@____.com
+#                  or  Josh Rudfelt at jrudfelt@unr.edu
+#                  or  Sam Hutton   at sam@samhutton.net
+#                  or  Damian Gimeno at dgimeno@unr.edu
 #------------------------------------------------
 
 #-------------------
